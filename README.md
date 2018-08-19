@@ -6,3 +6,5 @@ First a haar-Cascade is built from photos
 hier schreibe ich jetzt mal noch ein bisschen mehr text dazu....
 
 und gleich nochmal weils so schön war
+
+![alt text](http://url/to/Cat03.jpg)
