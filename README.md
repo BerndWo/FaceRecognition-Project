@@ -7,4 +7,4 @@ hier schreibe ich jetzt mal noch ein bisschen mehr text dazu....
 
 und gleich nochmal weils so schön war
 
-![alt text](https://github.com/DataScienceMichael/OpenCV-Project/Cat03.jpg)
+![alt text](https://github.com/DataScienceMichael/OpenCV-Project/blob/master/Cat03.jpg)
