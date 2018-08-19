@@ -4,3 +4,5 @@ FaceRecognition using haar-Cascade and OpenCV, then Text and Audio Output depend
 First a haar-Cascade is built from photos
 
 hier schreibe ich jetzt mal noch ein bisschen mehr text dazu....
+
+und gleich nochmal weils so schön war
