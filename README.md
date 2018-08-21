@@ -1,7 +1,9 @@
 # FaceRecognition-Project
 The goal of this project is to set up a system that can recognize and differentiate between two faces using a Machine Learning algorithm in Python 3.6.
 
-The necessary steps in this project are:
+---
+
+## The necessary steps in this project are:
 
 # 1. Set up environment for working collaboratively
 - prepare Python programming environment on involved PCs using the Atom editor
@@ -42,6 +44,8 @@ The necessary steps in this project are:
 - run the deployment script
 - have fun making faces and seeing if the algorithm can still identify us
 
+
+This is how a link is [integrated](www.heute.de)
 
 And here is an image of a cat:
 ![alt text](https://github.com/DataScienceMichael/OpenCV-Project/blob/master/Cat03.jpg)
