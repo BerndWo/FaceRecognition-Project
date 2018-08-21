@@ -45,7 +45,7 @@ The goal of this project is to set up a system that can recognize and differenti
 - have fun making faces and seeing if the algorithm can still identify us
 
 
-This is how a link is [integrated](www.heute.de)
+This is how a link is [integrated](https://www.heute.de)
 
 And here is an image of a cat:
 ![alt text](https://github.com/DataScienceMichael/OpenCV-Project/blob/master/Cat03.jpg)
