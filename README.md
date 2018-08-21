@@ -1,4 +1,4 @@
-# FaceRecognition-Project
+# FaceRecognition-Project :+1:
 The goal of this project is to set up a system that can recognize and differentiate between two faces using a Machine Learning algorithm in Python 3.6.
 
 ---
