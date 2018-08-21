@@ -18,7 +18,7 @@ The necessary steps in this project are:
 
 
 
-# 2. Prepare the necessary training data for the Machine Learning algorithm
+# 2. Prepare necessary training data for Machine Learning algorithm
 - take 100-500 images of each face under different lighting conditions and with different camera angles
 - mark the portion of the images that contain the faces using Imglib?????????
 
