@@ -3,7 +3,7 @@ The goal of this project is to set up a system that can recognize and differenti
 
 The necessary steps in this project are:
 
-1. Set up environment for working collaboratively
+# 1. Set up environment for working collaboratively
 - prepare Python programming environment on involved PCs using the Atom editor
   - the required Python packages include: 
       numpy
@@ -18,24 +18,24 @@ The necessary steps in this project are:
 
 
 
-2. Prepare the necessary training data for the Machine Learning algorithm
+# 2. Prepare the necessary training data for the Machine Learning algorithm
 - take 100-500 images of each face under different lighting conditions and with different camera angles
 - mark the portion of the images that contain the faces using Imglib?????????
 
 
 
-3. Prepare the training environment
+# 3. Prepare the training environment
 - set up cloud computing environment using FloyHub to have access to faster computing power
 
 
 
-4. Train the Neural Network with the prepared training data
+# 4. Train the Neural Network with the prepared training data
 - feed the training data into the Neural Network and run it on FloydHub
 - save the trained model for deployment later
 
 
 
-5. Prepare the final hardware system for model deployment
+# 5. Prepare the final hardware system for model deployment
 - set up a Raspberry Pi 3B+ with Raspbian as operating system and attach a Raspberry Pi Camera V2.1.
 - install the necessary Python packages on the Raspberry Pi (RP)
 - load the trained model onto the RP
