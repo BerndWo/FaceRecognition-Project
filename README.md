@@ -21,18 +21,22 @@ The necessary steps in this project are:
 - download GitHub Desktop and link the GitHub accounts to Atom in order to be able to edit code there
 
 
+
 2. Prepare the necessary training data for the Machine Learning algorithm
 - take 100-500 images of each face under different lighting conditions and with different camera angles
 - mark the portion of the images that contain the faces using Imglib?????????
+
 
 
 3. Prepare the training environment
 - set up cloud computing environment using FloyHub to have access to faster computing power
 
 
+
 4. Train the Neural Network with the prepared training data
 - feed the training data into the Neural Network and run it on FloydHub
 - save the trained model for deployment later
+
 
 
 5. Prepare the final hardware system for model deployment
