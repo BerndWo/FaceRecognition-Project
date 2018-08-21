@@ -2,6 +2,7 @@
 Summary: FaceRecognition using Tensorflow (Neural Network) and OpenCV, then Text and Audio Output depending on whose face is recognized.
 
 #######################
+
 The goal of this project is to set up a system that can recognize and differentiate between two faces using a Machine Learning algorithm in Python 3.6.
 
 The necessary steps in this project are:
