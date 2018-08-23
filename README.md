@@ -27,7 +27,7 @@ The goal of this project is to set up a system that can recognize and differenti
 
 
 ### 3. Prepare the training environment
-- set up cloud computing environment using **FloyHub** to have access to faster computing power
+- set up cloud computing environment using **FloydHub** to have access to faster computing power
 
 
 
